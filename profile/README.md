@@ -16,5 +16,5 @@ All official code, documentation, and updates related to TIMESAT will be publish
 Please verify that any TIMESAT-related repository is hosted here to ensure authenticity.
 
 ## Contact
-For more information about TIMESAT, please refer to the official website:  
+For more information about TIMESAT and distribution of TIMESAT version 3, please refer to the official website:  
 👉 [TIMESAT Website](http://web.nateko.lu.se/timesat/timesat.asp) or email us: zhanzhang.cai@nateko.lu.se
