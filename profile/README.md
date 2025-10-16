@@ -18,3 +18,13 @@ Please verify that any TIMESAT-related repository is hosted here to ensure authe
 ## Contact
 For more information about TIMESAT and distribution of TIMESAT version 3, please refer to the official website:  
 👉 [TIMESAT Website](http://web.nateko.lu.se/timesat/timesat.asp) or email us: zhanzhang.cai@nateko.lu.se
+
+## Quick start
+Install TIMESAT-GUI:
+```bash
+pip install timesat-gui
+```
+After installation, start the TIMESAT-GUI with:
+```bash
+timesat-gui
+```
