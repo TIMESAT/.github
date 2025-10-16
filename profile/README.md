@@ -28,3 +28,8 @@ After installation, start the TIMESAT-GUI with:
 ```bash
 timesat-gui
 ```
+
+## Citation
+If you use **TIMESAT** or **TIMESAT-GUI** in your research, please cite the corresponding release on Zenodo:
+> Cai, Z., Eklundh, L., & Jönsson, P. (2025). *TIMESAT4:  is a software package for analysing time-series of satellite sensor data* (Version 4.1.x) [Computer software]. Zenodo.   
+> [https://doi.org/10.5281/zenodo.17369757](https://doi.org/10.5281/zenodo.17369757)
