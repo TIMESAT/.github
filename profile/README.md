@@ -16,7 +16,7 @@ academic teaching, and personal use only**.
 **Commercial use requires a separate written agreement with the authors.**
 
 Detailed license terms are provided in the individual TIMESAT repositories
-(e.g. `timesat`, `TIMESAT-GUI`, `timesat-cli`).
+(e.g. `timesat`, `TIMESAT-GUI`, `timesat-CLI`).
 
 ## Featured Repository
 👉 [TIMESAT-GUI](https://github.com/TIMESAT/TIMESAT-GUI)  
