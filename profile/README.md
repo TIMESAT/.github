@@ -72,6 +72,4 @@ approach to satellite time-series analysis.
 Since its first formalisation in 2004, TIMESAT has evolved through
 multiple generations, and version 4 represents its current,
 widely adopted implementation. For full details on the original
-methodology, see:[**Jönsson, P., & Eklundh, L. (2004). TIMESAT — a program for
-analyzing time-series of satellite sensor data. *Computers &
-Geosciences*, 30(8), 833–845.**](https://www.sciencedirect.com/science/article/pii/S0098300404000974)
+methodology, see:[**Jönsson & Eklundh, 2004.**](https://www.sciencedirect.com/science/article/pii/S0098300404000974)
