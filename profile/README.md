@@ -62,12 +62,14 @@ metrics from vegetation index time series and has since been widely
 used in both research and operational applications.
 
 The original idea for TIMESAT emerged from interdisciplinary
-discussions between Professor Per Jönsson (applied mathematics and
-signal processing) and Professor Lars Eklundh (vegetation remote
-sensing and ecology). Informal conversations—famously while
-accompanying their children at a playground sandbox—highlighted
-the need for a mathematically grounded, ecologically meaningful
-approach to satellite time-series analysis.
+discussions between Professor Per Jönsson , an applied mathematician with a background in
+signal processing, and Professor Lars Eklundh, a vegetation remote
+sensing scientist. During conversations that often took place while accompanying their
+children at a playground sandbox, they realized that existing tools
+for satellite time-series analysis lacked a solid mathematical
+foundation while still being closely connected to ecological
+interpretation. This insight eventually led to the development of
+TIMESAT.
 
 Since its first formalisation in 2004, TIMESAT has evolved through
 multiple generations, and version 4 represents its current,
