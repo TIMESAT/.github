@@ -50,3 +50,30 @@ timesat-gui
 If you use **TIMESAT** or **TIMESAT-GUI** in your research, please cite the corresponding release on Zenodo:
 > Cai, Z., Eklundh, L., & Jönsson, P. (2025). *TIMESAT4:  is a software package for analysing time-series of satellite sensor data* (Version 4.1.x) [Computer software]. Zenodo.   
 > [https://doi.org/10.5281/zenodo.17369757](https://doi.org/10.5281/zenodo.17369757)
+
+## History and Origins
+
+The TIMESAT software was first formally described and introduced
+in the scientific literature in 2004 (Jönsson & Eklundh, 2004),
+providing a robust framework for analysing time-series of satellite
+sensor data. This foundational work established the theoretical and
+methodological basis for extracting seasonality and phenological
+metrics from vegetation index time series and has since been widely
+used in both research and operational applications.
+
+The original idea for TIMESAT emerged from interdisciplinary
+discussions between Professor Per Jönsson (applied mathematics and
+signal processing) and Professor Lars Eklundh (vegetation remote
+sensing and ecology). Informal conversations—famously while
+accompanying their children at a playground sandbox—highlighted
+the need for a mathematically grounded, ecologically meaningful
+approach to satellite time-series analysis.
+
+Since its first formalisation in 2004, TIMESAT has evolved through
+multiple generations, and version 4 represents its current,
+widely adopted implementation. For full details on the original
+methodology, see:
+
+**Jönsson, P., & Eklundh, L. (2004). TIMESAT — a program for
+analyzing time-series of satellite sensor data. *Computers &
+Geosciences*, 30(8), 833–845.**
