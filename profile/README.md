@@ -8,15 +8,20 @@ TIMESAT is a software package for analysing time-series of satellite sensor data
 
 ## License & Usage Notice
 
-**TIMESAT is proprietary software.**
+
+**The TIMESAT algorithmic core is proprietary software.**
 
 It is freely available for **non-commercial scientific research,
 academic teaching, and personal use only**.
 
-**Commercial use requires a separate written agreement with the authors.**
+**Commercial use of the TIMESAT core requires a separate written agreement with the authors.**
 
-Detailed license terms are provided in the individual TIMESAT repositories
-(e.g. `timesat`, `TIMESAT-GUI`, `timesat-CLI`).
+The TIMESAT organization also provides **open-source tools and interfaces**
+(including graphical and command-line applications) that facilitate
+scientific use of the TIMESAT core.
+
+Detailed license terms are provided in the individual repositories
+(e.g. `timesat`, `timesat-engine`, `timesat-gui`, `timesat-cli`).
 
 ## Featured Repository
 👉 [TIMESAT-GUI](https://github.com/TIMESAT/TIMESAT-GUI)  
