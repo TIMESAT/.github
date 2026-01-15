@@ -54,7 +54,7 @@ If you use **TIMESAT** in your research, please cite the corresponding release o
 ## History and Origins
 
 The TIMESAT software was first formally described and introduced
-in the scientific literature in 2004 (Jönsson & Eklundh, 2004),
+in the scientific literature in 2004 ([Jönsson & Eklundh, 2004](https://www.sciencedirect.com/science/article/pii/S0098300404000974)),
 providing a robust framework for analysing time-series of satellite
 sensor data. This foundational work established the theoretical and
 methodological basis for extracting seasonality and phenological
@@ -71,5 +71,4 @@ approach to satellite time-series analysis.
 
 Since its first formalisation in 2004, TIMESAT has evolved through
 multiple generations, and version 4 represents its current,
-widely adopted implementation. For full details on the original
-methodology, see:[**Jönsson & Eklundh, 2004**](https://www.sciencedirect.com/science/article/pii/S0098300404000974).
+widely adopted implementation.
