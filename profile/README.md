@@ -74,6 +74,6 @@ multiple generations, and version 4 represents its current,
 widely adopted implementation. For full details on the original
 methodology, see:
 
-**Jönsson, P., & Eklundh, L. (2004). TIMESAT — a program for
+[**Jönsson, P., & Eklundh, L. (2004). TIMESAT — a program for
 analyzing time-series of satellite sensor data. *Computers &
-Geosciences*, 30(8), 833–845.**(https://www.sciencedirect.com/science/article/pii/S0098300404000974)
+Geosciences*, 30(8), 833–845.**](https://www.sciencedirect.com/science/article/pii/S0098300404000974)
