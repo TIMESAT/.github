@@ -24,7 +24,7 @@ Detailed license terms are provided in the individual repositories
 (e.g. `timesat`, `timesat-engine`, `timesat-gui`, `timesat-cli`).
 
 ## Featured Repository
-👉 [TIMESAT-GUI](https://github.com/TIMESAT/TIMESAT-GUI)  
+👉 [TIMESAT-CLI](https://github.com/TIMESAT/TIMESAT-CLI)  
 This repository provides the **official Python implementation of TIMESAT**.  
 It contains the core functionality, documentation, and examples for working with satellite time-series data in Python.
 
@@ -41,9 +41,9 @@ Install TIMESAT-GUI:
 ```bash
 pip install timesat-gui
 ```
-After installation, start the TIMESAT-GUI with:
+After installation, start the TIMESAT-CLI with:
 ```bash
-timesat-gui
+timesat-cli
 ```
 
 ## Citation
