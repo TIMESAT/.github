@@ -21,7 +21,7 @@ The TIMESAT organization also provides **open-source tools and interfaces**
 scientific use of the TIMESAT core.
 
 Detailed license terms are provided in the individual repositories
-(e.g. `timesat`, `timesat-engine`, `timesat-gui`, `timesat-cli`).
+(e.g. `timesat`, `timesat-gui`, `timesat-cli`).
 
 ## Download Desktop Application
 
