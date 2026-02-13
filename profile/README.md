@@ -42,16 +42,6 @@ Please verify that any TIMESAT-related repository is hosted here to ensure authe
 For more information about TIMESAT, distribution of TIMESAT version 3, and commercial licensing inquiries, please refer to the official website:  
 👉 [TIMESAT Website](http://web.nateko.lu.se/timesat/timesat.asp) or email us: zhanzhang.cai@nateko.lu.se
 
-## Quick start
-Install TIMESAT-GUI:
-```bash
-pip install timesat-gui
-```
-After installation, start the TIMESAT-CLI with:
-```bash
-timesat-cli
-```
-
 ## Citation
 If you use **TIMESAT** in your research, please cite the corresponding release on Zenodo:
 > Cai, Z., Eklundh, L., & Jönsson, P. (2025). *TIMESAT4:  is a software package for analysing time-series of satellite sensor data* (Version 4.1.x) [Computer software]. Zenodo.   
