@@ -27,7 +27,7 @@ Detailed license terms are provided in the individual repositories
 
 Download the latest desktop application from GitHub Releases:
 
-👉 [https://github.com/TIMESAT/TIMESAT-GUI/releases/latest](https://github.com/TIMESAT/TIMESAT-GUI/releases/latest)
+👉 [TIMESAT-GUI](https://github.com/TIMESAT/TIMESAT-GUI/releases/latest)
 
 ## Featured Repository
 👉 [TIMESAT-CLI](https://github.com/TIMESAT/TIMESAT-CLI)  
