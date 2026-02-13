@@ -23,6 +23,12 @@ scientific use of the TIMESAT core.
 Detailed license terms are provided in the individual repositories
 (e.g. `timesat`, `timesat-engine`, `timesat-gui`, `timesat-cli`).
 
+## Download
+
+Download the latest desktop application from GitHub Releases:
+
+👉 [https://github.com/TIMESAT/TIMESAT-GUI/releases/latest](https://github.com/TIMESAT/TIMESAT-GUI/releases/latest)
+
 ## Featured Repository
 👉 [TIMESAT-CLI](https://github.com/TIMESAT/TIMESAT-CLI)  
 This repository provides the **official Python implementation of TIMESAT**.  
