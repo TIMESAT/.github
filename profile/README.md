@@ -23,7 +23,7 @@ scientific use of the TIMESAT core.
 Detailed license terms are provided in the individual repositories
 (e.g. `timesat`, `timesat-engine`, `timesat-gui`, `timesat-cli`).
 
-## Download
+## Download Desktop Application
 
 Download the latest desktop application from GitHub Releases:
 
