@@ -40,7 +40,7 @@ Only repositories hosted here should be regarded as official TIMESAT resources.
 
 ## Contact
 For more information about TIMESAT, distribution of TIMESAT version 3, and commercial licensing inquiries, please refer to the official website:  
-👉 [TIMESAT Website](http://web.nateko.lu.se/timesat/timesat.asp) or email us: zhanzhang.cai@nateko.lu.se
+👉 [TIMESAT Website](http://web.nateko.lu.se/timesat/timesat.asp) or email us: zhanzhang.cai@mgeo.lu.se
 
 ## Citation
 If you use **TIMESAT** in your research, please cite the corresponding release on Zenodo:
