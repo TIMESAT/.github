@@ -35,8 +35,8 @@ This repository provides the **official Python implementation of TIMESAT**.
 It contains the core functionality, documentation, and examples for working with satellite time-series data in Python.
 
 ## Repositories
-All official code, documentation, and updates related to TIMESAT will be published under this organization.  
-Please verify that any TIMESAT-related repository is hosted here to ensure authenticity.
+All official code, documentation, and updates related to TIMESAT are published under this organization.
+Only repositories hosted here should be regarded as official TIMESAT resources.
 
 ## Contact
 For more information about TIMESAT, distribution of TIMESAT version 3, and commercial licensing inquiries, please refer to the official website:  
