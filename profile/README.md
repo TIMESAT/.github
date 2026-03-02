@@ -29,11 +29,6 @@ Download the latest desktop application from GitHub Releases:
 
 👉 [TIMESAT-GUI](https://github.com/TIMESAT/TIMESAT-GUI/releases/latest)
 
-## Featured Repository
-👉 [TIMESAT-CLI](https://github.com/TIMESAT/TIMESAT-CLI)  
-This repository provides the **official Python implementation of TIMESAT**.  
-It contains the core functionality, documentation, and examples for working with satellite time-series data in Python.
-
 ## Repositories
 All official code, documentation, and updates related to TIMESAT are published under this organization.
 Only repositories hosted here should be regarded as official TIMESAT resources.
