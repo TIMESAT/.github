@@ -6,6 +6,12 @@ This is the **only official repository hub** for the TIMESAT software and relate
 ## About TIMESAT
 TIMESAT is a software package for analysing time-series of satellite sensor data. We have developed TIMESAT to be able to investigate the seasonality of satellite time-series data and their relationship with dynamic properties of vegetation, such as phenology and temporal development. The temporal domain holds important information about short- and long-term vegetation changes. The first generation of TIMESAT - distributed as version 3, was limited to processing of data with a regular time step, typical of data from MODIS or NOAA AVHRR. This version is very stable and is still distributed at the timesat webpage, see Contact. The new generation, named TIMESAT version 4 and distributed in this repository, is built on the same principles but works with irregularly spaced data in time (Sentinel-2, Landsat etc.) and has several incremental modifications and improvements. TIMESAT 4 is the basis of several operational products, e.g. Copernicus CLMS phenology data for Europe from Sentinel-2 data ([HR-VPP](https://www.copernicus.eu/en/access-data/copernicus-services-catalogue/high-resolution-vegetation-phenology-and-productivity)) and the globe from Sentinel-3 data (CGLOPS), and projects by ESA ([RAMONA](https://www.ramona.earth/), [SEN4LDN](https://esa-sen4ldn.org/en)).
 
+## Download Desktop Application
+
+Download the latest desktop application from GitHub Releases:
+
+👉 [TIMESAT-GUI](https://github.com/TIMESAT/TIMESAT-GUI/releases/latest)
+
 ## License & Usage Notice
 
 
@@ -22,12 +28,6 @@ scientific use of the TIMESAT core.
 
 Detailed license terms are provided in the individual repositories
 (e.g. `timesat`, `timesat-gui`, `timesat-cli`).
-
-## Download Desktop Application
-
-Download the latest desktop application from GitHub Releases:
-
-👉 [TIMESAT-GUI](https://github.com/TIMESAT/TIMESAT-GUI/releases/latest)
 
 ## Repositories
 All official code, documentation, and updates related to TIMESAT are published under this organization.
