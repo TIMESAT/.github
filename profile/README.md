@@ -14,13 +14,10 @@ Download the latest desktop application from GitHub Releases:
 
 ## License & Usage Notice
 
-
-**The TIMESAT algorithmic core is proprietary software.**
-
 It is freely available for **non-commercial scientific research,
 academic teaching, and personal use only**.
 
-**Commercial use of the TIMESAT core requires a separate written agreement with the authors.**
+**The TIMESAT algorithmic core is proprietary software. Commercial use of the TIMESAT core requires a separate written agreement with the authors.**
 
 The TIMESAT organization also provides **open-source tools and interfaces**
 (including graphical and command-line applications) that facilitate
