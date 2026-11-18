@@ -6,6 +6,17 @@ This is the **only official repository hub** for the TIMESAT software and relate
 ## About TIMESAT
 TIMESAT is a software package for analysing time-series of satellite sensor data. We have developed TIMESAT to be able to investigate the seasonality of satellite time-series data and their relationship with dynamic properties of vegetation, such as phenology and temporal development. The temporal domain holds important information about short- and long-term vegetation changes. The first generation of TIMESAT - distributed as version 3, was limited to processing of data with a regular time step, typical of data from MODIS or NOAA AVHRR. This version is very stable and is still distributed at the timesat webpage, see Contact. The new generation, named TIMESAT version 4 and distributed in this repository, is built on the same principles but works with irregularly spaced data in time (Sentinel-2, Landsat etc.) and has several incremental modifications and improvements. TIMESAT 4 is the basis of several operational products, e.g. Copernicus CLMS phenology data for Europe from Sentinel-2 data ([HR-VPP](https://www.copernicus.eu/en/access-data/copernicus-services-catalogue/high-resolution-vegetation-phenology-and-productivity)) and the globe from Sentinel-3 data (CGLOPS), and projects by ESA ([RAMONA](https://www.ramona.earth/), [SEN4LDN](https://esa-sen4ldn.org/en)).
 
+## Documentation
+
+Read the **[TIMESAT 4 User Guide — Public Draft (Under Review)](https://timesat.github.io/TIMESAT-Documentation/)**.
+
+The guide covers scientific background, installation and input preparation,
+GUI and CLI workflows, parameters and outputs, worked examples,
+troubleshooting and reproducibility.
+
+[Browse the guide's contents](https://timesat.github.io/TIMESAT-Documentation/user-guide/table-of-contents/)
+· [Documentation source](https://github.com/TIMESAT/TIMESAT-Documentation)
+
 ## Download Desktop Application
 
 Download the latest desktop application from GitHub Releases:
@@ -29,6 +40,27 @@ Detailed license terms are provided in the individual repositories
 ## Repositories
 All official code, documentation, and updates related to TIMESAT are published under this organization.
 Only repositories hosted here should be regarded as official TIMESAT resources.
+
+Main resources:
+
+- [TIMESAT-GUI](https://github.com/TIMESAT/TIMESAT-GUI): desktop application and executable releases.
+- [TIMESAT-CLI](https://github.com/TIMESAT/TIMESAT-CLI): command-line interface and processing workflows.
+- [TIMESAT-Documentation](https://github.com/TIMESAT/TIMESAT-Documentation): User Guide sources, tutorials and supporting assets.
+
+The processing architecture is **TIMESAT GUI → TIMESAT CLI → TIMESAT 4 Core**.
+
+## Development and User Guide Contributions
+
+Per Jönsson and Lars Eklundh are the original TIMESAT developers and scientific
+founders. Zhanzhang Cai develops TIMESAT 4 Core, TIMESAT CLI and TIMESAT GUI.
+
+The current TIMESAT 4 User Guide has the following contribution roles:
+
+| Contributor | Role |
+| --- | --- |
+| Zhanzhang Cai | Lead author and editor |
+| Lars Eklundh | Scientific and technical reviewer |
+| Per Jönsson | Scientific guidance |
 
 ## Contact
 For more information about TIMESAT, distribution of TIMESAT version 3, and commercial licensing inquiries, please refer to the official website:  
