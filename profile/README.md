@@ -8,7 +8,7 @@ TIMESAT is a software package for analysing time-series of satellite sensor data
 
 ## Documentation
 
-Read the **[TIMESAT 4 User Guide — Public Draft (Under Review)](https://timesat.github.io/TIMESAT-Documentation/)**.
+Read the **[TIMESAT 4 User Guide](https://timesat.github.io/TIMESAT-Documentation/)**.
 
 The guide covers scientific background, installation and input preparation,
 GUI and CLI workflows, parameters and outputs, worked examples,
